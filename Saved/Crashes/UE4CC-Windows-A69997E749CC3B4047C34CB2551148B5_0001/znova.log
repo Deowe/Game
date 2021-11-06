@@ -1,0 +1,1514 @@
+﻿Log file open, 11/06/21 20:07:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: znova
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.213272
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin ActorPalette
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AchievementSystem
+LogPluginManager: Mounting plugin GraphFormatter
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LDAssistant
+LogPluginManager: Mounting plugin OpenLandMesh
+LogPluginManager: Mounting plugin RadialMenu
+LogPluginManager: Mounting plugin VoxelFree
+LogPluginManager: Mounting plugin WeatherSystem
+LogPluginManager: Mounting plugin XsollaLogin
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin AjaMedia
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogVoxel: VOXEL_DEBUG=0
+LogVoxel: Testing compression on 0.000122MB
+LogVoxel: Compressed 0.000122 MB in 0.000063s (1.928441 MB/s). Compressed Size: 0.000133 MB (108.593750%). Compression: 0.000061s (95.892567%). Num Chunks: 1.
+LogVoxel: Decompressed 0.000122 MB in 0.000005s (25.431314 MB/s). Compressed Size: 0.000133 MB (108.593750%). Decompression: 0.000005s (95.833453%). Num Chunks: 1.
+LogVoxel: Testing compression on 0.000122MB
+LogVoxel: Compressed 0.000122 MB in 0.000043s (2.865500 MB/s). Compressed Size: 0.000133 MB (108.593750%). Compression: 0.000042s (99.295769%). Num Chunks: 1.
+LogVoxel: Decompressed 0.000122 MB in 0.000001s (87.192870 MB/s). Compressed Size: 0.000133 MB (108.593750%). Decompression: 0.000001s (92.857106%). Num Chunks: 1.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i5-11400F @ 2.60GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Engine.ini]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Engine.ini]
+[2021.11.06-19.07.11:491][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Engine.ini]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Engine.ini]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.06-19.07.11:491][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Engine.ini]
+[2021.11.06-19.07.11:491][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Engine.ini]
+[2021.11.06-19.07.11:532][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.06-19.07.11:532][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.06-19.07.11:533][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.06-19.07.11:534][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.06-19.07.11:534][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.06-19.07.11:534][  0]LogHAL: Display: Platform has ~ 24 GB [25598115840 / 34359738368 / 24], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.06-19.07.11:534][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.06-19.07.11:534][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.ShadowQuality:0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:512]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:512]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.06]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.6]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.CapsuleShadows:0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.06-19.07.11:534][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:534][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:16]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:1]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:1]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.Streaming.Boost:0.3]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:4]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:400]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[foliage.DensityScale:0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[grass.DensityScale:0]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Scalability.ini]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.06-19.07.11:535][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.06-19.07.11:536][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.06-19.07.11:536][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.06-19.07.11:536][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.06-19.07.11:536][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Engine.ini]
+[2021.11.06-19.07.11:536][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Config/Windows/Editor.ini]
+[2021.11.06-19.07.11:536][  0]LogInit: Computer: DESKTOP-JMEN6HD
+[2021.11.06-19.07.11:536][  0]LogInit: User: utor1
+[2021.11.06-19.07.11:536][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.11.06-19.07.11:536][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.06-19.07.11:536][  0]LogMemory: Memory total: Physical=23.8GB (24GB approx)
+[2021.11.06-19.07.11:536][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.06-19.07.11:536][  0]LogMemory: Process Physical Memory: 148.93 MB used, 148.93 MB peak
+[2021.11.06-19.07.11:536][  0]LogMemory: Process Virtual Memory: 130.38 MB used, 130.38 MB peak
+[2021.11.06-19.07.11:536][  0]LogMemory: Physical Memory: 10671.60 MB used,  13740.66 MB free, 24412.27 MB total
+[2021.11.06-19.07.11:536][  0]LogMemory: Virtual Memory: 134205264.00 MB used,  12464.60 MB free, 134217728.00 MB total
+[2021.11.06-19.07.11:540][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.06-19.07.11:572][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.06-19.07.11:573][  0]LogInit: Using OS detected language (cs-CZ).
+[2021.11.06-19.07.11:573][  0]LogInit: Using OS detected locale (cs-CZ).
+[2021.11.06-19.07.11:575][  0]LogTextLocalizationManager: No localization for 'cs-CZ' exists, so 'en' will be used for the language.
+[2021.11.06-19.07.11:757][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.06-19.07.11:768][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.06-19.07.11:783][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.06-19.07.11:783][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.06-19.07.11:884][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.11.06-19.07.11:886][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.06-19.07.11:886][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.06-19.07.11:886][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.06-19.07.11:886][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.06-19.07.11:963][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.11.06-19.07.11:963][  0]LogD3D11RHI:       4018/0/12206 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.11.06-19.07.11:964][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.06-19.07.11:964][  0]LogD3D11RHI:       0/0/12206 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.06-19.07.11:964][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.11.06-19.07.11:964][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050 Ti
+[2021.11.06-19.07.11:964][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.06-19.07.11:964][  0]LogD3D11RHI:     DeviceId    : 1c82
+[2021.11.06-19.07.11:964][  0]LogD3D11RHI:     SubSysId    : 33511462
+[2021.11.06-19.07.11:964][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.06-19.07.11:964][  0]LogD3D11RHI:     DedicatedVideoMemory : 4213178368 bytes
+[2021.11.06-19.07.11:964][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.06-19.07.11:964][  0]LogD3D11RHI:     SharedSystemMemory : 12799057920 bytes
+[2021.11.06-19.07.11:964][  0]LogD3D11RHI:     AdapterLuid : 0 63116
+[2021.11.06-19.07.11:970][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.06-19.07.11:970][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.06-19.07.11:970][  0]LogWindows: EnumDisplayDevices:
+[2021.11.06-19.07.11:970][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2021.11.06-19.07.11:971][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2021.11.06-19.07.11:971][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.11.06-19.07.11:971][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.11.06-19.07.11:971][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI:   Driver Version: 496.13 (internal:30.0.14.9613, unified:496.13)
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI:      Driver Date: 10-6-2021
+[2021.11.06-19.07.11:971][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1050 Ti
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI:     DeviceId    : 1c82
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI:     SubSysId    : 33511462
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI:     DedicatedVideoMemory : 4213178368 bytes
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI:     SharedSystemMemory : 12799057920 bytes
+[2021.11.06-19.07.11:971][  0]LogD3D11RHI:     AdapterLuid : 0 63116
+[2021.11.06-19.07.12:013][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.06-19.07.12:013][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.06-19.07.12:013][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.06-19.07.12:034][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.06-19.07.12:053][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.06-19.07.12:286][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.06-19.07.12:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.06-19.07.12:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.06-19.07.12:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.06-19.07.12:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.06-19.07.12:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.06-19.07.12:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.06-19.07.12:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.06-19.07.12:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.06-19.07.12:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.06-19.07.12:303][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.06-19.07.12:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.06-19.07.12:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.06-19.07.12:325][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.06-19.07.12:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.06-19.07.12:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.06-19.07.12:335][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.06-19.07.12:343][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.06-19.07.12:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.06-19.07.12:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.06-19.07.12:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.06-19.07.12:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.06-19.07.12:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.06-19.07.12:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.06-19.07.12:386][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.06-19.07.12:390][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.06-19.07.12:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.06-19.07.12:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.06-19.07.12:406][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.06-19.07.12:410][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.06-19.07.12:413][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.06-19.07.12:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.06-19.07.12:417][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.06-19.07.12:422][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.06-19.07.12:444][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.06-19.07.12:470][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.06-19.07.12:470][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/utor1/Documents/Unreal Projects/znova/Intermediate/Shaders/WorkingDirectory/11064/).
+[2021.11.06-19.07.12:470][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/utor1/AppData/Local/Temp/UnrealShaderWorkingDir/A5759E9F4203BBE316C515A6A5FADE9D/'.
+[2021.11.06-19.07.12:471][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.06-19.07.12:471][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.06-19.07.12:471][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.06-19.07.13:095][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.06-19.07.13:192][  0]LogDerivedDataCache: Loaded boot cache 0.10s 161MB C:/Users/utor1/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.06-19.07.13:192][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/utor1/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.06-19.07.13:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/utor1/Documents/Unreal Projects/znova/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.06-19.07.13:192][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.06-19.07.13:192][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/utor1/Documents/Unreal Projects/znova/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.06-19.07.13:192][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.06-19.07.13:206][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.06-19.07.13:206][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.06-19.07.13:206][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.06-19.07.13:212][  0]LogDerivedDataCache: Speed tests for C:/Users/utor1/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.06-19.07.13:212][  0]LogDerivedDataCache: Display: Performance to C:/Users/utor1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=360.19MBs, RandomWriteSpeed=286.28MBs. Assigned SpeedClass 'Local'
+[2021.11.06-19.07.13:213][  0]LogDerivedDataCache: Using Local data cache path C:/Users/utor1/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.06-19.07.13:213][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.06-19.07.13:213][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.06-19.07.13:249][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.06-19.07.13:250][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.06-19.07.13:269][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2021.11.06-19.07.13:473][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.06-19.07.13:474][  0]LogInit: Active device profile: [000001F6316EFB00][000001F62ECA6940 49] Windows
+[2021.11.06-19.07.13:474][  0]LogInit: Profiles: [000001F6316EFB00][000001F62ECA6940 49] Windows, [000001F631700700][000001F62EAF6AC0 49] WindowsNoEditor, [000001F6316EC700][000001F62EAF2C00 49] WindowsServer, [000001F631703000][000001F62EAFAD40 49] WindowsClient, [000001F6316ED400][000001F62EAFEE80 49] IOS, [000001F631701200][000001F62EB02FC0 49] iPadAir, [000001F6316ED100][000001F62EB0B140 49] iPadAir2, [000001F6316A3C00][000001F61F699400 49] IPadPro, [000001F6316A3D00][000001F62EB0F440 49] iPadAir3, [000001F6316EC100][000001F61F6A35C0 49] iPadAir4, [000001F6316A0C00][000001F61F6A7740 49] iPadMini2, [000001F6316ED000][000001F61F6AB8C0 49] iPadMini3, [000001F6316A2B00][000001F61F6AFA40 49] iPadMini4, [000001F6316EDE00][000001F61F6B3BC0 49] iPadMini5, [000001F6316EB500][000001F61F6BA300 49] iPhone6, [000001F6316EB600][000001F61F6B6340 49] iPodTouch6, [000001F6316A2100][000001F61F6C2600 49] iPhone7, [000001F6316A2200][000001F61F6BE640 49] iPodTouch7, [000001F6316E8B00][000001F61F6C67C0 49] iPhone5S, [000001F6316A3600][000001F61F6CA940 49] iPhone6Plus, [000001F6316EAC00][000001F61F6CEAC0 49] iPhone6S, [000001F6316A3800][000001F61F6D2C40 49] iPhone6SPlus, [000001F6316EBF00][000001F62EB06D80 49] iPhone7Plus, [000001F6316A1F00][000001F61F6D6EC0 49] iPhoneSE, [000001F6316E8C00][000001F61F6DB000 49] iPhone8, [000001F6316A2D00][000001F61F6DF140 49] iPhone8Plus, [000001F6316EAA00][000001F61F6E72C0 49] iPhoneX, [000001F6316A1700][000001F61F6EB440 49] iPhoneXS, [000001F6316E9000][000001F61F6EF5C0 49] iPhoneXSMax, [000001F6316A2500][000001F62EBC5740 49] iPhoneXR, [000001F6316E9600][000001F62EBC98C0 49] iPhone11, [000001F6316A1D00][000001F62EBCDA40 49] iPhone11Pro, [000001F6316EA400][000001F62EBD1BC0 49] iPhone11ProMax, [000001F6316A0100][000001F62EBD41C0 49] iPhoneSE2, [000001F6316EA500][000001F62EBD8340 49] iPhone12Mini, [000001F6316A1200][000001F62EBDC4C0 49] iPhone12, [000001F6316E8800][000001F62EBE0640 49] iPhone12Pro, [000001F6316A3700][000001F62EBE47C0 49] iPhone12ProMax, [000001F6316EB100][000001F62EBE8940 49] iPadPro105, [000001F6316A1C00][000001F62EBECAC0 49] iPadPro129, [000001F6316EA900][000001F62EBF0C40 49] iPadPro97, [000001F6316A2A00][000001F62EBF4DC0 49] iPadPro2_129, [000001F6316EB000][000001F62EBF8F40 49] iPad5, [000001F6316A1600][000001F61F6E3080 49] iPad6, [000001F6316E8F00][000001F62EBFD1C0 49] iPad7, [000001F6316A2900][000001F62EC01300 49] iPad8, [000001F6316EAE00][000001F62EC09480 49] iPadPro11, [000001F6316A0A00][000001F62EC0D600 49] iPadPro2_11, [000001F6316E8A00][000001F62EC11780 49] iPadPro3_129, [000001F6316A2800][000001F62EC15900 49] iPadPro4_129, [000001F6316EA100][000001F62EC19A80 49] AppleTV, [000001F6316A1100][000001F62EC1DC00 49] AppleTV4K, [000001F6316EAB00][000001F62EC20200 49] TVOS, [000001F6316A2400][000001F62EC24380 49] Mac, [000001F6316EB400][000001F62EC28500 49] MacClient, [000001F6316A1B00][000001F62EC2C680 49] MacNoEditor, [000001F6316EA800][000001F62EC30800 49] MacServer, [000001F6316A0B00][000001F62EC34980 49] Linux, [000001F6316E9F00][000001F62EC38B00 49] LinuxAArch64, [000001F6316A0200][000001F62EC3CC80 49] LinuxNoEditor, [000001F6316EA600][000001F62EC40E00 49] LinuxAArch64NoEditor, [000001F631700800][000001F62EC44F80 49] LinuxClient, [000001F631768B00][000001F62EC49100 49] LinuxAArch64Client, [000001F631700B00][000001F62EC05240 49] LinuxServer, [000001F631768800][000001F62EC4D380 49] LinuxAArch64Server, [000001F631702A00][000001F62EC514C0 49] Android, [000001F631769A00][000001F62EC59640 49] Android_Low, [000001F631703E00][000001F62EC5D7C0 49] Android_Mid, [000001F63176A900][000001F62EC61940 49] Android_High, [000001F631703D00][000001F62EC65AC0 49] Android_Default, [000001F63176A700][000001F62EC680C0 49] Android_Adreno4xx, [000001F631703900][000001F62EC6C240 49] Android_Adreno5xx_Low, [000001F631769E00][000001F62EC703C0 49] Android_Adreno5xx, [000001F631701500][000001F62EC74540 49] Android_Adreno6xx, [000001F631768100][000001F62E4A06C0 49] Android_Adreno6xx_Vulkan, [000001F631702500][000001F62E4A4840 49] Android_Mali_T6xx, [000001F631768600][000001F62E4A89C0 49] Android_Mali_T7xx, [000001F631700D00][000001F62E4ACB40 49] Android_Mali_T8xx, [000001F631769D00][000001F62E4B0CC0 49] Android_Mali_G71, [000001F631701800][000001F62E4B4E40 49] Android_Mali_G72, [000001F63176A000][000001F62E4B8FC0 49] Android_Mali_G72_Vulkan, [000001F631701F00][000001F62E4BD140 49] Android_Mali_G76, [000001F631769F00][000001F62E4C12C0 49] Android_Mali_G76_Vulkan, [000001F6316EB200][000001F62EC55400 49] Android_Mali_G77, [000001F631769100][000001F62E4C5540 49] Android_Mali_G77_Vulkan, [000001F6316E8E00][000001F62E4C9680 49] Android_Mali_G78, [000001F631769700][000001F62E4CD7C0 49] Android_Mali_G78_Vulkan, [000001F6316EBB00][000001F62E4D5940 49] Android_Mali_G710, [000001F63176AB00][000001F62E4D9AC0 49] Android_Mali_G710_Vulkan, [000001F6316E9100][000001F62E4DC0C0 49] Android_Vulkan_SM5, [000001F631769300][000001F62E4E0240 49] Android_PowerVR_G6xxx, [000001F6316EA300][000001F62E4E43C0 49] Android_PowerVR_GT7xxx, [000001F63176B000][000001F62E4E8540 49] Android_PowerVR_GE8xxx, [000001F6316E9700][000001F62E4EC6C0 49] Android_PowerVR_GM9xxx, [000001F631768900][000001F62E4F0840 49] Android_PowerVR_GM9xxx_Vulkan, [000001F6316E8100][000001F62E4F49C0 49] Android_TegraK1, [000001F631768C00][000001F62E4F8B40 49] Android_Unknown_Vulkan, [000001F6316E9300][000001F62E4FCCC0 49] Lumin, [000001F631769200][000001F62E500E40 49] Lumin_Desktop, [000001F6316EBC00][000001F62E504FC0 49] HoloLens, 
+[2021.11.06-19.07.13:583][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.06-19.07.13:584][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.06-19.07.13:584][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.06-19.07.13:584][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.06-19.07.13:584][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.06-19.07.13:598][  0]LogNetVersion: znova 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1183559691)
+[2021.11.06-19.07.13:890][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.06-19.07.13:991][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.06-19.07.13:997][  0]LogUObjectArray: 18661 objects as part of root set at end of initial load.
+[2021.11.06-19.07.13:997][  0]LogUObjectAllocator: 4816320 out of 0 bytes used by permanent object pool.
+[2021.11.06-19.07.13:997][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.06-19.07.14:202][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 6784C888454A00EDB08F2F9A5873927A | Instance: 8CDFE7014750F2A5D1F4179A9A69F46F (DESKTOP-JMEN6HD-11064).
+[2021.11.06-19.07.14:243][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.14:243][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.14:243][  0]LogPython: Using Python 3.7.7
+[2021.11.06-19.07.15:167][  0]LogXsollaUIBuilder: FXsollaUIBuilderModule::StartupModule(27): XsollaUIBuilder module started
+[2021.11.06-19.07.15:279][  0]LogXsollaLogin: FXsollaLoginModule::StartupModule(28): XsollaLogin module started
+[2021.11.06-19.07.15:290][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.06-19.07.15:295][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.06-19.07.15:696][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.15:696][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.15:696][  0]LogOpenImageDenoise: OIDN starting up
+[2021.11.06-19.07.15:898][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.15:898][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.15:898][  0]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.06-19.07.15:940][  0]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.042 s
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: 
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: Ensure condition failed: AttachmentRules.LocationRule == EAttachmentRule::KeepRelative && AttachmentRules.RotationRule == EAttachmentRule::KeepRelative && AttachmentRules.ScaleRule == EAttachmentRule::KeepRelative [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Components/SceneComponent.cpp] [Line: 1826]
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: AttachToComponent when called from a constructor is only setting up attachment and will always be treated as KeepRelative. Consider calling SetupAttachment directly instead.
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: Stack: 
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc563f26f9 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc54e36b1f UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc2d4d8819 UE4Editor-OpenLandMesh.dll!AOpenLandMeshActor::AOpenLandMeshActor() [D:\build\++Portal\Sync\LocalBuilds\PluginTemp\HostProject\Plugins\OpenLandMesh\Source\OpenLandMesh\Private\API\OpenLandMeshActor.cpp:23]
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc58a961d3 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc58db8e6f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc58d952d1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc58c5dc85 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc57c31d1a UE4Editor-Core.dll!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc57c516d3 UE4Editor-Core.dll!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc9a4d6433 UE4Editor-Projects.dll!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc9a4ecaba UE4Editor-Projects.dll!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffc9a4d61b0 UE4Editor-Projects.dll!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ff76aca564b UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ff76aca8ff0 UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ff76aca0d1c UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ff76aca10aa UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ff76aca40cd UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ff76acb5984 UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ff76acb853a UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcbebd7034 KERNEL32.DLL!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: [Callstack] 0x00007ffcc06c2651 ntdll.dll!UnknownFunction []
+[2021.11.06-19.07.15:940][  0]LogOutputDevice: Error: 
+[2021.11.06-19.07.15:948][  0]LogStats:                SubmitErrorReport -  0.000 s
+[2021.11.06-19.07.16:521][  0]LogStats:                    SendNewReport -  0.573 s
+[2021.11.06-19.07.16:521][  0]LogStats:             FDebug::EnsureFailed -  0.623 s
+[2021.11.06-19.07.17:524][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.06-19.07.17:542][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.06-19.07.17:542][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.06-19.07.17:622][  0]SourceControl: Source control is disabled
+[2021.11.06-19.07.17:622][  0]SourceControl: Source control is disabled
+[2021.11.06-19.07.17:624][  0]SourceControl: Source control is disabled
+[2021.11.06-19.07.17:626][  0]SourceControl: Source control is disabled
+[2021.11.06-19.07.17:630][  0]SourceControl: Source control is disabled
+[2021.11.06-19.07.17:636][  0]LogUProjectInfo: Found projects:
+[2021.11.06-19.07.17:640][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.06-19.07.17:641][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.06-19.07.17:641][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.06-19.07.17:670][  0]LogCollectionManager: Loaded 0 collections in 0.001273 seconds
+[2021.11.06-19.07.17:697][  0]LogFileCache: Scanning file cache for directory 'C:/Users/utor1/Documents/Unreal Projects/znova/Saved/Collections/' took 0.00s
+[2021.11.06-19.07.17:697][  0]LogFileCache: Scanning file cache for directory 'C:/Users/utor1/Documents/Unreal Projects/znova/Content/Developers/utor1/Collections/' took 0.00s
+[2021.11.06-19.07.17:697][  0]LogFileCache: Scanning file cache for directory 'C:/Users/utor1/Documents/Unreal Projects/znova/Content/Collections/' took 0.00s
+[2021.11.06-19.07.17:697][  0]LogOcInput: OculusInput pre-init called
+[2021.11.06-19.07.17:851][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.17:851][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.17:971][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.17:971][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.18:128][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.18:128][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.18:128][  0]LogClass: Display: EnumProperty FVoxelSpawnerDensity::RGBAChannel is not initialized properly. Module:Voxel File:Public/VoxelSpawners/VoxelSpawnerConfig.h
+[2021.11.06-19.07.18:128][  0]LogClass: Display: IntProperty FVoxelSpawnerDensity::UVChannel is not initialized properly. Module:Voxel File:Public/VoxelSpawners/VoxelSpawnerConfig.h
+[2021.11.06-19.07.18:128][  0]LogClass: Display: EnumProperty FVoxelSpawnerDensity::UVAxis is not initialized properly. Module:Voxel File:Public/VoxelSpawners/VoxelSpawnerConfig.h
+[2021.11.06-19.07.18:129][  0]LogClass: Display: BoolProperty FXsollaCheckUserAgeResult::accepted is not initialized properly. Module:XsollaLogin File:Public/XsollaLoginTypes.h
+[2021.11.06-19.07.18:129][  0]LogClass: Display: Int64Property FXsollaUserDevice::id is not initialized properly. Module:XsollaLogin File:Public/XsollaLoginTypes.h
+[2021.11.06-19.07.18:129][  0]LogClass: Display: Int64Property FXsollaProviderToken::expires_in is not initialized properly. Module:XsollaLogin File:Public/XsollaLoginTypes.h
+[2021.11.06-19.07.18:129][  0]LogClass: Warning: ObjectProperty FAchievementData::LockedIcon is not initialized properly. Module:AchievementSystem File:Public/AchievementData.h
+[2021.11.06-19.07.18:129][  0]LogClass: Warning: ObjectProperty FAchievementData::AchievedIcon is not initialized properly. Module:AchievementSystem File:Public/AchievementData.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: StructProperty FComputeMaterialParameter::VectorValue is not initialized properly. Module:OpenLandMesh File:Public/Compute/Types/ComputeMaterial.h
+[2021.11.06-19.07.18:130][  0]LogClass: Warning: ObjectProperty FOpenLandInstancedActorInfo::Actor is not initialized properly. Module:OpenLandMesh File:Public/API/OpenLandInstancingController.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: StructProperty FOpenLandInstancingRequestPoint::Position is not initialized properly. Module:OpenLandMesh File:Public/API/OpenLandInstancingController.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: StructProperty FOpenLandInstancingRequestPoint::Normal is not initialized properly. Module:OpenLandMesh File:Public/API/OpenLandInstancingController.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: StructProperty FOpenLandInstancingRequestPoint::TangentX is not initialized properly. Module:OpenLandMesh File:Public/API/OpenLandInstancingController.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: StructProperty FBiomeMapElement::Color is not initialized properly. Module:VoxelGraph File:Public/VoxelNodes/VoxelBiomeMapNode.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: EnumProperty FVoxelGraphMacroPin::Category is not initialized properly. Module:VoxelGraph File:Public/VoxelNodes/VoxelGraphMacro.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: Int8Property FMTSJson::version is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: Int16Property FMTSJson::resolutionValue is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: BoolProperty FMTSJson::isExternal is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: Int8Property FMTSJson::meshVersion is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: BoolProperty FMTSJson::isCustom is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: BoolProperty FMTSJson::isModularAsset is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: Int8Property FLodList::variation is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: Int16Property FMeshList::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: Int16Property FComponents::resolution is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: BoolProperty FTextureSets::isUdim is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: BoolProperty FMeta::value is not initialized properly. Module:MegascansPlugin File:Private/Utilities/MTSReader.h
+[2021.11.06-19.07.18:130][  0]LogClass: Display: 26 Uninitialized script struct members found including 3 object properties
+[2021.11.06-19.07.18:130][  0]LogAutomationTest: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.18:130][  0]LogAutomationTest: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.18:130][  0]LogAutomationTest: Warning: ObjectProperty FAchievementData::LockedIcon is not initialized properly. Module:AchievementSystem File:Public/AchievementData.h
+[2021.11.06-19.07.18:130][  0]LogAutomationTest: Warning: ObjectProperty FAchievementData::AchievedIcon is not initialized properly. Module:AchievementSystem File:Public/AchievementData.h
+[2021.11.06-19.07.18:130][  0]LogAutomationTest: Warning: ObjectProperty FOpenLandInstancedActorInfo::Actor is not initialized properly. Module:OpenLandMesh File:Public/API/OpenLandInstancingController.h
+[2021.11.06-19.07.18:131][  0]LogEngine: Initializing Engine...
+[2021.11.06-19.07.18:133][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.11.06-19.07.18:133][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.06-19.07.18:133][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.06-19.07.18:134][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.06-19.07.18:241][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.06-19.07.18:248][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.06-19.07.18:254][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.06-19.07.18:257][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.11.06-19.07.18:257][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.11.06-19.07.18:258][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.06-19.07.18:258][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.06-19.07.18:258][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.06-19.07.18:258][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.06-19.07.18:258][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.06-19.07.18:258][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.06-19.07.18:258][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.06-19.07.18:258][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.06-19.07.18:258][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.06-19.07.18:258][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.06-19.07.18:258][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.06-19.07.18:258][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.06-19.07.18:258][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.06-19.07.18:258][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.06-19.07.18:264][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.06-19.07.18:264][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.06-19.07.18:277][  0]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.11.06-19.07.18:278][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.06-19.07.18:280][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.06-19.07.18:280][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.06-19.07.18:281][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.06-19.07.18:281][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.06-19.07.18:281][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.06-19.07.18:282][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.06-19.07.18:282][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.06-19.07.18:282][  0]LogInit: FAudioDevice initialized.
+[2021.11.06-19.07.18:282][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.06-19.07.18:282][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.06-19.07.18:370][  0]LogDerivedDataCache: Saved boot cache 0.09s 161MB C:/Users/utor1/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.06-19.07.18:373][  0]LogInit: Texture streaming: Enabled
+[2021.11.06-19.07.18:387][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2021.11.06-19.07.18:389][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.06-19.07.18:389][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.06-19.07.18:390][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.06-19.07.18:411][  0]LogInit: Transaction tracking system initialized
+[2021.11.06-19.07.18:426][  0]BlueprintLog: New page: Editor Load
+[2021.11.06-19.07.18:472][  0]LocalizationService: Localization service is disabled
+[2021.11.06-19.07.18:489][  0]TimingProfiler: Initialize
+[2021.11.06-19.07.18:489][  0]TimingProfiler: OnSessionChanged
+[2021.11.06-19.07.18:489][  0]LoadingProfiler: Initialize
+[2021.11.06-19.07.18:489][  0]LoadingProfiler: OnSessionChanged
+[2021.11.06-19.07.18:489][  0]NetworkingProfiler: Initialize
+[2021.11.06-19.07.18:489][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.06-19.07.18:489][  0]MemoryProfiler: Initialize
+[2021.11.06-19.07.18:489][  0]MemoryProfiler: OnSessionChanged
+[2021.11.06-19.07.18:536][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.06-19.07.18:536][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.06-19.07.18:536][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.06-19.07.18:605][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.06-19.07.18:605][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.06-19.07.18:639][  0]LogFileCache: Scanning file cache for directory 'C:/Users/utor1/Documents/Unreal Projects/znova/Content/' took 0.01s
+[2021.11.06-19.07.18:680][  0]AchievementSystemEditor: Warning: AchievementSystemEditor module has been loaded
+[2021.11.06-19.07.18:943][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.18:943][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.06-19.07.18:943][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.06-19.07.18:945][  0]SourceControl: Source control is disabled
+[2021.11.06-19.07.18:945][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.312
+[2021.11.06-19.07.18:945][  0]Cmd: MAP LOAD FILE="../../../../../../Users/utor1/Documents/Unreal Projects/znova/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.06-19.07.18:945][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/utor1/Documents/Unreal Projects/znova/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.11.06-19.07.18:945][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.06-19.07.18:945][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,103ms to complete.
+[2021.11.06-19.07.18:945][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.000
+[2021.11.06-19.07.18:947][  0]LogUnrealEdMisc: Total Editor Startup Time, took 8.314
+[2021.11.06-19.07.19:044][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.06-19.07.19:049][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.06-19.07.19:054][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.06-19.07.19:059][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.06-19.07.19:072][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0101 seconds. Added 4337 classes and 1029 folders.
+[2021.11.06-19.07.19:074][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.06-19.07.19:075][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.06-19.07.19:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.06-19.07.19:075][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:075][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.11.06-19.07.19:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.11.06-19.07.19:075][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.06-19.07.19:075][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:075][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.06-19.07.19:075][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:075][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.11.06-19.07.19:075][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.06-19.07.19:076][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.06-19.07.19:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.06-19.07.19:076][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:076][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.11.06-19.07.19:076][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.06-19.07.19:076][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.06-19.07.19:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.06-19.07.19:076][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:076][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.11.06-19.07.19:076][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.11.06-19.07.19:076][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.06-19.07.19:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.06-19.07.19:076][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:076][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.11.06-19.07.19:076][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.11.06-19.07.19:077][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.06-19.07.19:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.06-19.07.19:077][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:077][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.11.06-19.07.19:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.11.06-19.07.19:077][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.06-19.07.19:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.06-19.07.19:077][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:077][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.11.06-19.07.19:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.06-19.07.19:078][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.06-19.07.19:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.06-19.07.19:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.11.06-19.07.19:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.06-19.07.19:078][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.06-19.07.19:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.06-19.07.19:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.11.06-19.07.19:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.06-19.07.19:078][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.06-19.07.19:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:078][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.06-19.07.19:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:078][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.11.06-19.07.19:078][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.11.06-19.07.19:079][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.06-19.07.19:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.06-19.07.19:079][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:079][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.11.06-19.07.19:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.06-19.07.19:079][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.06-19.07.19:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.06-19.07.19:079][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:079][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.11.06-19.07.19:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.11.06-19.07.19:079][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.06-19.07.19:079][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.06-19.07.19:079][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:079][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.11.06-19.07.19:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.06-19.07.19:080][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.06-19.07.19:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.06-19.07.19:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.11.06-19.07.19:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.11.06-19.07.19:080][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.06-19.07.19:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.06-19.07.19:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.11.06-19.07.19:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.11.06-19.07.19:080][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.06-19.07.19:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.06-19.07.19:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.11.06-19.07.19:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.06-19.07.19:081][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.06-19.07.19:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.06-19.07.19:081][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:081][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.11.06-19.07.19:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.11.06-19.07.19:081][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.06-19.07.19:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.06-19.07.19:081][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:081][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.11.06-19.07.19:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.11.06-19.07.19:081][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.06-19.07.19:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.06-19.07.19:081][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:081][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.11.06-19.07.19:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.06-19.07.19:082][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.06-19.07.19:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.06-19.07.19:082][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:082][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.11.06-19.07.19:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.11.06-19.07.19:082][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.06-19.07.19:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.06-19.07.19:082][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:082][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.11.06-19.07.19:082][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.11.06-19.07.19:082][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.06-19.07.19:082][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:082][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.06-19.07.19:082][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:082][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.11.06-19.07.19:083][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.11.06-19.07.19:083][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.06-19.07.19:083][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:083][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.06-19.07.19:083][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:083][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.11.06-19.07.19:083][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.06-19.07.19:083][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.06-19.07.19:083][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:083][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.06-19.07.19:083][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:083][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.11.06-19.07.19:083][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.11.06-19.07.19:084][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.06-19.07.19:084][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:084][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.06-19.07.19:084][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:084][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.11.06-19.07.19:084][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.11.06-19.07.19:084][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.06-19.07.19:084][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.06-19.07.19:084][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.06-19.07.19:084][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.06-19.07.19:084][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.11.06-19.07.19:084][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.06-19.07.19:111][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.06-19.07.19:112][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.11.06-19.07.19:153][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.06-19.07.19:155][  0]LogSlate: Took 0.000211 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.06-19.07.19:156][  0]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.06-19.07.19:229][  0]LogRenderer: Reallocating scene render targets to support 1208x516 Format 10 NumSamples 1 (Frame:1).
+[2021.11.06-19.07.19:284][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.06-19.07.19:285][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.11.06-19.07.19:285][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.11.06-19.07.19:285][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.11.06-19.07.19:285][  0]LogLoad: (Engine Initialization) Total time: 8.65 seconds
+[2021.11.06-19.07.19:285][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.06-19.07.19:343][  0]LogContentStreaming: Texture pool size now 400 MB
+[2021.11.06-19.07.19:366][  1]LogRenderer: Reallocating scene render targets to support 1208x532 Format 10 NumSamples 1 (Frame:3).
+[2021.11.06-19.07.19:383][  1]LogAssetRegistry: Asset discovery search completed in 6.1140 seconds
+[2021.11.06-19.07.19:387][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.11.06-19.07.19:464][  3]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.06-19.07.33:796][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2021.11.06-19.07.33:797][165]Cmd: MAP LOAD FILE="../../../../../../Users/utor1/Documents/Unreal Projects/znova/Content/ThirdPersonBP/Maps/mapa.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.06-19.07.33:802][165]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.06-19.07.33:816][165]LightingResults: New page: Lighting Build
+[2021.11.06-19.07.33:818][165]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 6 classes and 0 folders.
+[2021.11.06-19.07.33:818][165]LoadErrors: New page: Loading map: mapa.umap
+[2021.11.06-19.07.33:819][165]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.07.33:819][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.07.33:819][165]MapCheck: New page: Map Check
+[2021.11.06-19.07.33:819][165]LightingResults: New page: Lighting Build
+[2021.11.06-19.07.33:825][165]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.06-19.07.33:826][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.11.06-19.07.33:840][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: Failed to load '/Game/DynamicGrassLite/Blueprints/InternalLogic/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:841][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: Failed to load '/Game/DynamicGrassLite/Blueprints/InternalLogic/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:841][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:841][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:841][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: Failed to load '/Game/PN_giantReed/UE4_ThirdPerson/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:841][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: Failed to load '/Game/PN_giantReed/UE4_ThirdPerson/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:841][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: Failed to load '/Game/DynamicGrassLite/Blueprints/InternalLogic/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:842][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:842][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: Failed to load '/Game/PN_giantReed/UE4_ThirdPerson/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:842][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/DynamicGrassLite/Blueprints/InternalLogic/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:842][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:842][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/PN_giantReed/UE4_ThirdPerson/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:842][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/DynamicGrassLite/Blueprints/InternalLogic/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:843][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:843][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/PN_giantReed/UE4_ThirdPerson/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:843][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/DynamicGrassLite/Blueprints/InternalLogic/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:843][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:843][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/PN_giantReed/UE4_ThirdPerson/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:844][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:844][165]LoadErrors: Failed to load /Game/menu/savegame/BP_GameInstance.BP_GameInstance_C Referenced by K2Node_CallFunction_1
+[2021.11.06-19.07.33:844][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:844][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/DynamicGrassLite/Blueprints/InternalLogic/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:844][165]LoadErrors: Failed to load /Game/DynamicGrassLite/Blueprints/InternalLogic/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C Referenced by K2Node_DynamicCast_2
+[2021.11.06-19.07.33:844][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/DynamicGrassLite/Blueprints/InternalLogic/ThirdPersonBP/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:845][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:845][165]LoadErrors: Failed to load /Game/menu/savegame/BP_GameInstance.BP_GameInstance_C Referenced by K2Node_DynamicCast_12
+[2021.11.06-19.07.33:845][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:845][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:845][165]LoadErrors: Failed to load /Game/menu/savegame/BP_GameInstance.BP_GameInstance_C Referenced by K2Node_VariableSet_6
+[2021.11.06-19.07.33:845][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:845][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/PN_giantReed/UE4_ThirdPerson/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:845][165]LoadErrors: Failed to load /Game/PN_giantReed/UE4_ThirdPerson/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C Referenced by K2Node_DynamicCast_17
+[2021.11.06-19.07.33:846][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/PN_giantReed/UE4_ThirdPerson/Blueprints/ThirdPersonCharacter': Can't find file.
+[2021.11.06-19.07.33:846][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:846][165]LoadErrors: Failed to load /Game/menu/savegame/BP_GameInstance.BP_GameInstance_C Referenced by K2Node_DynamicCast_18
+[2021.11.06-19.07.33:846][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:846][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:846][165]LoadErrors: Failed to load /Game/menu/savegame/BP_GameInstance.BP_GameInstance_C Referenced by K2Node_VariableGet_3
+[2021.11.06-19.07.33:846][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:846][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:846][165]LoadErrors: Failed to load /Game/menu/savegame/BP_GameInstance.BP_GameInstance_C Referenced by K2Node_Knot_14
+[2021.11.06-19.07.33:846][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:847][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:847][165]LoadErrors: Failed to load /Game/menu/savegame/BP_GameInstance.BP_GameInstance_C Referenced by K2Node_Knot_16
+[2021.11.06-19.07.33:847][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\PauseMenu.uasset: Failed to load '/Game/menu/savegame/BP_GameInstance': Can't find file.
+[2021.11.06-19.07.33:851][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper1': Can't find file.
+[2021.11.06-19.07.33:851][165]LoadErrors: Failed to load /Game/menu/wallpaper1.wallpaper1 Referenced by Image_0
+[2021.11.06-19.07.33:852][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper1': Can't find file.
+[2021.11.06-19.07.33:852][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper1': Can't find file.
+[2021.11.06-19.07.33:852][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper1': Can't find file.
+[2021.11.06-19.07.33:853][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper1': Can't find file.
+[2021.11.06-19.07.33:857][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Sounds.uasset: Failed to load '/Game/menu/wallpaper2you_513159': Can't find file.
+[2021.11.06-19.07.33:857][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Sounds.uasset: Failed to load '/Game/menu/wallpaper2you_513159': Can't find file.
+[2021.11.06-19.07.33:857][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Sounds.uasset: Failed to load '/Game/menu/wallpaper2you_513159': Can't find file.
+[2021.11.06-19.07.33:858][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper2you_513159': Can't find file.
+[2021.11.06-19.07.33:858][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper2you_513159': Can't find file.
+[2021.11.06-19.07.33:858][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper2you_513159': Can't find file.
+[2021.11.06-19.07.33:858][165]LoadErrors: Failed to load /Game/menu/wallpaper2you_513159.wallpaper2you_513159 Referenced by Image_0
+[2021.11.06-19.07.33:859][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper2you_513159': Can't find file.
+[2021.11.06-19.07.33:868][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper1': Can't find file.
+[2021.11.06-19.07.33:869][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper1': Can't find file.
+[2021.11.06-19.07.33:870][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper1': Can't find file.
+[2021.11.06-19.07.33:870][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\Displey.uasset: Failed to load '/Game/menu/wallpaper1': Can't find file.
+[2021.11.06-19.07.33:870][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\options.uasset: Failed to load '/Game/menu/wallpaper1': Can't find file.
+[2021.11.06-19.07.33:870][165]LogLinker: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\options.uasset: Failed to load '/Game/menu/wallpaper1': Can't find file.
+[2021.11.06-19.07.33:912][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.07.33:913][165]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Get CharTransform
+[2021.11.06-19.07.33:913][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.07.33:913][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As BP Save Game  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.07.33:913][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.07.33:913][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.07.33:913][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.07.33:913][165]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Set CharTransform
+[2021.11.06-19.07.33:913][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.07.33:913][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As BP Save Game  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.07.33:914][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.07.33:914][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.07.33:914][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.07.33:914][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.07.33:938][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.07.33:938][165]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.07.34:146][165]LogAudio: Display: Audio Device (ID: 1) registered with world 'mapa'.
+[2021.11.06-19.07.34:147][165]LogAIModule: Creating AISystem for world mapa
+[2021.11.06-19.07.34:155][165]LogVoxel: Voxel Invoker enabled; Name: Editor Invoker; Owner: VoxelWorldEditorControls_0
+[2021.11.06-19.07.34:155][165]LogVoxel: Loading world
+[2021.11.06-19.07.34:156][165]LogVoxel: Creating pool with 2 threads
+[2021.11.06-19.07.34:239][165]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.06-19.07.34:278][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.11.06-19.07.34:294][165]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.06-19.07.34:295][165]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,131ms to complete.
+[2021.11.06-19.07.34:295][165]LogFileHelpers: Loading map 'mapa' took 0.498
+[2021.11.06-19.07.34:295][165]LogSlate: Window 'Open Level' being destroyed
+[2021.11.06-19.07.34:345][165]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.06-19.07.34:837][215]LogVoxel: VoxelWorld_1 took 0.681563s to generate
+[2021.11.06-19.07.45:703][686]LogSlate: Window 'Message Log' being destroyed
+[2021.11.06-19.07.45:710][686]LogSlate: Window 'Message Log' being destroyed
+[2021.11.06-19.07.48:781][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.11.06-19.07.51:237][122]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.06-19.07.57:437][  5]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/menu/Menu_Control.Menu_Control
+[2021.11.06-19.07.57:513][  5]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2021.11.06-19.07.59:879][230]LogSlate: Window 'Menu_Control' being destroyed
+[2021.11.06-19.07.59:884][230]LogSlate: Window 'Menu_Control' being destroyed
+[2021.11.06-19.07.59:886][230]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.07.59:887][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.08.07:974][382]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/menu/menu.menu
+[2021.11.06-19.08.08:591][382]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.11.06-19.08.09:743][537]LogSlate: Window 'menu' being destroyed
+[2021.11.06-19.08.09:747][537]LogSlate: Window 'menu' being destroyed
+[2021.11.06-19.08.09:749][537]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.08.09:749][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.08.09:756][537]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.08.09:756][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.08.11:052][707]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.11.06-19.08.16:388][707]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.06-19.08.17:238][821]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/menu/MainMenu.MainMenu
+[2021.11.06-19.08.18:644][960]LogSlate: Window 'MainMenu' being destroyed
+[2021.11.06-19.08.18:648][960]LogSlate: Window 'MainMenu' being destroyed
+[2021.11.06-19.08.18:651][960]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.08.18:652][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.08.24:442][775]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/menu/savegame/SaveMenu.SaveMenu
+[2021.11.06-19.08.26:365][967]LogSlate: Window 'SaveMenu' being destroyed
+[2021.11.06-19.08.26:369][967]LogSlate: Window 'SaveMenu' being destroyed
+[2021.11.06-19.08.26:371][967]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.08.26:372][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.08.26:377][967]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.08.26:377][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.10.20:166][937]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2021.11.06-19.10.20:170][937]LogVoxel: Unloading world
+[2021.11.06-19.10.20:177][937]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.06-19.10.20:177][937]BlueprintLog: Warning: Blueprint failed to compile:  BP_Gamemode
+[2021.11.06-19.10.20:177][937]LogCustomDialog: Dialog displayed:
+[2021.11.06-19.10.21:143][937]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.11.06-19.10.21:148][937]PIE: New page: PIE session: mapa (6. 11. 2021 21:10:21)
+[2021.11.06-19.10.21:150][937]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.11.06-19.10.21:151][937]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.11.06-19.10.21:151][937]LogLinker: Warning: Failed to load '/Game/menu/savegame/BP_gameinstance': Can't find file.
+[2021.11.06-19.10.21:151][937]LogLinker: Warning: Failed to load '/Game/menu/savegame/BP_gameinstance': Can't find file.
+[2021.11.06-19.10.21:151][937]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/menu/savegame/BP_gameinstance.BP_gameinstance_C'
+[2021.11.06-19.10.21:152][937]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_mapa
+[2021.11.06-19.10.21:163][937]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011151s)
+[2021.11.06-19.10.21:164][937]LogAIModule: Creating AISystem for world mapa
+[2021.11.06-19.10.21:164][937]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2021.11.06-19.10.21:164][937]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/mapa.mapa to /Game/ThirdPersonBP/Maps/UEDPIE_0_mapa.mapa (0.012372s)
+[2021.11.06-19.10.21:220][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.11.06-19.10.21:224][937]LogXsollaLogin: UXsollaLoginSubsystem::Initialize(52): XsollaLogin subsystem initialized
+[2021.11.06-19.10.21:224][937]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.11.06-19.10.21:224][937]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.06-19.10.21:224][937]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.06-19.10.21:224][937]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.06-19.10.21:224][937]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.06-19.10.21:224][937]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.06-19.10.21:224][937]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.06-19.10.21:224][937]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.06-19.10.21:224][937]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.06-19.10.21:225][937]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.06-19.10.21:225][937]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.06-19.10.21:225][937]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.06-19.10.21:225][937]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.06-19.10.21:227][937]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.06-19.10.21:227][937]LogAudioMixer: Display: 1: FrontRight
+[2021.11.06-19.10.21:232][937]LogAudioMixer: Display: Using Audio Device Headset Earphone (HyperX Virtual Surround Sound)
+[2021.11.06-19.10.21:233][937]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.06-19.10.21:233][937]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.06-19.10.21:233][937]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.06-19.10.21:233][937]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.06-19.10.21:233][937]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.06-19.10.21:233][937]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.06-19.10.21:235][937]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.06-19.10.21:235][937]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.06-19.10.21:235][937]LogInit: FAudioDevice initialized.
+[2021.11.06-19.10.21:235][937]LogAudio: Display: Audio Device (ID: 2) registered with world 'mapa'.
+[2021.11.06-19.10.21:259][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.06-19.10.21:260][937]LogLoad: Game class is 'BP_Gamemode_C'
+[2021.11.06-19.10.21:263][937]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_mapa.mapa up for play (max tick rate 144) at 2021.11.06-20.10.21
+[2021.11.06-19.10.21:264][937]LogWorld: Bringing up level for play took: 0.002125
+[2021.11.06-19.10.21:264][937]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.11.06-19.10.21:268][937]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.11.06-19.10.21:272][937]PIE: Server logged in
+[2021.11.06-19.10.21:273][937]PIE: Play in editor total start time 1,103 seconds.
+[2021.11.06-19.10.21:275][937]LogVoxel: Loading world
+[2021.11.06-19.10.21:276][937]LogVoxel: Creating pool with 2 threads
+[2021.11.06-19.10.21:278][937]LogVoxel: Voxel Pool created by VoxelWorld_1 for world mapa
+[2021.11.06-19.10.21:278][937]LogVoxel: Voxel Invoker enabled; Name: VoxelInvokerAutoCameraComponent_0; Owner: VoxelWorld_1
+[2021.11.06-19.10.21:278][937]LogVoxel: No Voxel Invoker found, using camera as invoker
+[2021.11.06-19.10.21:322][938]LogRenderer: Reallocating scene render targets to support 1920x1080 Format 10 NumSamples 1 (Frame:1).
+[2021.11.06-19.10.21:785][948]LogVoxel: VoxelWorld_1 took 0.509973s to generate
+[2021.11.06-19.10.22:961][ 35]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2021.11.06-19.10.23:144][ 49]PIE: Error: SetInputMode_GameAndUI expects a valid player controller as 'PlayerController' target
+[2021.11.06-19.10.26:159][289]LogVoxel: Loading world
+[2021.11.06-19.10.26:160][289]LogVoxel: Creating pool with 2 threads
+[2021.11.06-19.10.26:163][289]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.06-19.10.26:163][289]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_mapa
+[2021.11.06-19.10.26:163][289]LogSlate: Window 'znova Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.11.06-19.10.26:167][289]LogVoxel: Unloading world
+[2021.11.06-19.10.26:169][289]LogWorld: UWorld::CleanupWorld for mapa, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.10.26:169][289]LogVoxel: Voxel Invoker disabled; Name: VoxelInvokerAutoCameraComponent_0
+[2021.11.06-19.10.26:170][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.10.26:177][289]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.06-19.10.26:182][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.10.26:200][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.06-19.10.26:201][289]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.11.06-19.10.26:248][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.11.06-19.10.26:310][290]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.11.06-19.10.26:784][326]LogVoxel: VoxelWorld_1 took 0.624602s to generate
+[2021.11.06-19.10.28:284][541]LogSlate: Window 'Message Log' being destroyed
+[2021.11.06-19.10.28:289][541]LogSlate: Window 'Message Log' being destroyed
+[2021.11.06-19.10.30:396][839]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/menu/savegame/SaveMenu.SaveMenu
+[2021.11.06-19.10.57:077][527]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/menu/savegame/BP_Gamemode.BP_Gamemode
+[2021.11.06-19.10.57:590][528]LogSlate: Took 0.000212 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.06-19.11.09:958][ 94]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.11.06-19.11.14:910][468]LogLinker: Warning: Failed to load '/Game/DynamicGrassLite/Blueprints/InternalLogic/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2021.11.06-19.11.14:911][468]LogLinker: Warning: Failed to load '/Game/DynamicGrassLite/Blueprints/InternalLogic/ThirdPersonBP/Blueprints/ThirdPersonGameMode': Can't find file.
+[2021.11.06-19.11.14:911][468]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/DynamicGrassLite/Blueprints/InternalLogic/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C'
+[2021.11.06-19.11.15:842][574]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/mapa.mapa:PersistentLevel.mapa
+[2021.11.06-19.11.55:563][930]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.11.55:563][930]LogEditorClassViewer: Warning: Class /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C has parent /Script/Engine.DestructibleActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.11.55:563][930]LogEditorClassViewer: Warning: Class /XsollaLogin/Common/Components/Wrappers/W_TextWrapper.PLACEHOLDER-CLASS__BPI_PrimitivesText_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.11.55:563][930]LogEditorClassViewer: Warning: Class /XsollaLogin/Common/Popup/W_MessagePopup.PLACEHOLDER-CLASS__W_ButtonWrapper_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.11.55:563][930]LogEditorClassViewer: Warning: Class /XsollaLogin/Common/Popup/W_MessagePopup.PLACEHOLDER-CLASS__W_TextWrapper_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.11.55:563][930]LogEditorClassViewer: Warning: Class /XsollaLogin/Common/Popup/W_MessagePopup.PLACEHOLDER-CLASS__BPI_PrimitivesButton_C_2 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.11.55:563][930]LogEditorClassViewer: Warning: Class /XsollaLogin/Common/Popup/W_MessagePopup.PLACEHOLDER-CLASS__BPI_PrimitivesText_C_3 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.11.55:563][930]LogEditorClassViewer: Warning: Class /XsollaLogin/Common/BP_DemoUtils.PLACEHOLDER-CLASS__W_MessagePopup_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.11.55:563][930]LogEditorClassViewer: Warning: Class /XsollaLogin/Common/BP_DemoUtils.PLACEHOLDER-CLASS__W_LoadingScreen_C_1 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.11.55:563][930]LogEditorClassViewer: Warning: Class /XsollaLogin/Common/Misc/BP_PrimitivesUtils.PLACEHOLDER-CLASS__BPI_PrimitivesInput_C_0 has parent None, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.12.02:029][930]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.06-19.12.02:036][930]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.06-19.12.02:048][930]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.06-19.12.07:099][658]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_GameSave
+[2021.11.06-19.12.07:102][658]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.06-19.12.08:224][816]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/menu/savegame/BP_GameSave.BP_GameSave
+[2021.11.06-19.12.19:287][603]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.11.06-19.12.48:364][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/menu/savegame/BP_GameSave" FILE="../../../../../../Users/utor1/Documents/Unreal Projects/znova/Content/menu/savegame/BP_GameSave.uasset" SILENT=true
+[2021.11.06-19.12.48:365][835]LogSavePackage: Moving '../../../../../../Users/utor1/Documents/Unreal Projects/znova/Saved/BP_GameSave7A13692F490AEFA23EB044B5108FA027.tmp' to '../../../../../../Users/utor1/Documents/Unreal Projects/znova/Content/menu/savegame/BP_GameSave.uasset'
+[2021.11.06-19.12.48:381][835]AssetCheck: New page: Asset Save: BP_GameSave
+[2021.11.06-19.12.48:381][835]LogContentValidation: Display: Validating Blueprint /Game/menu/savegame/BP_GameSave.BP_GameSave
+[2021.11.06-19.12.48:754][881]BlueprintLog: New page: Compile BP_GameSave
+[2021.11.06-19.12.48:821][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.11.06-19.12.49:606][973]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.12.49:606][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.12.50:399][ 49]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.12.50:399][ 49]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.12.51:039][ 91]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.12.51:039][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.12.52:317][208]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.06-19.12.52:317][208]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.12.52:317][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.13.03:535][736]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.11.06-19.13.06:928][ 86]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.06-19.13.06:947][ 86]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.13.06:947][ 86]LogEditorClassViewer: Warning: Class /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C has parent /Script/Engine.DestructibleActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.13.10:057][466]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.06-19.13.10:062][466]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.06-19.13.16:612][689]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/menu/savegame/BP_Gamemode.BP_Gamemode
+[2021.11.06-19.13.24:851][924]BlueprintLog: New page: Compile BP_Gamemode
+[2021.11.06-19.13.24:854][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.13.24:854][924]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Get CharTransform
+[2021.11.06-19.13.24:855][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.13.24:855][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As BP Save Game  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.13.24:855][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.13.24:855][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.13.24:855][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.13.24:855][924]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Set CharTransform
+[2021.11.06-19.13.24:855][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.13.24:855][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As BP Save Game  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.13.24:855][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.13.24:856][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.13.24:856][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.13.24:856][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.13.24:856][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.13.24:856][924]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.13.24:937][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.11.06-19.13.56:618][701]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.06-19.13.56:638][701]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.13.56:638][701]LogEditorClassViewer: Warning: Class /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C has parent /Script/Engine.DestructibleActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.14.54:922][180]BlueprintLog: New page: Compile BP_Gamemode
+[2021.11.06-19.14.54:924][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.14.54:925][180]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Get CharTransform
+[2021.11.06-19.14.54:925][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.14.54:925][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As BP Save Game  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.14.54:925][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.14.54:925][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.14.54:925][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.14.54:925][180]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Set CharTransform
+[2021.11.06-19.14.54:925][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.14.54:925][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As BP Save Game  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.14.54:926][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.14.54:926][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.14.54:926][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.14.54:926][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.14.54:926][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.14.54:926][180]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.14.54:972][180]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.11.06-19.15.56:129][520]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2021.11.06-19.15.57:001][520]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.06-19.15.57:071][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.11.06-19.15.57:103][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.11.06-19.15.57:127][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.11.06-19.15.58:812][716]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.15.58:812][716]LogEditorClassViewer: Warning: Class /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C has parent /Script/Engine.DestructibleActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.15.58:815][716]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.11.06-19.16.02:290][716]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.06-19.16.02:294][716]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.06-19.16.02:308][716]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.06-19.16.02:607][759]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2021.11.06-19.16.02:610][759]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.06-19.16.07:900][515]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_SaveGame
+[2021.11.06-19.16.07:911][515]LogMetaData: Removing '/Game/menu/savegame/BP_SaveGame.SKEL_BP_SaveGame_C' ref from Metadata '/Game/menu/savegame/NewBlueprint.PackageMetaData'
+[2021.11.06-19.16.07:911][515]LogMetaData: Removing '/Game/menu/savegame/BP_SaveGame.BP_SaveGame_C' ref from Metadata '/Game/menu/savegame/NewBlueprint.PackageMetaData'
+[2021.11.06-19.16.07:932][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/menu/savegame/BP_SaveGame" FILE="../../../../../../Users/utor1/Documents/Unreal Projects/znova/Content/menu/savegame/BP_SaveGame.uasset" SILENT=true
+[2021.11.06-19.16.07:934][515]LogSavePackage: Moving '../../../../../../Users/utor1/Documents/Unreal Projects/znova/Saved/BP_SaveGameF45D55164062842396F6A8990DF29518.tmp' to '../../../../../../Users/utor1/Documents/Unreal Projects/znova/Content/menu/savegame/BP_SaveGame.uasset'
+[2021.11.06-19.16.07:992][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.11.06-19.16.08:028][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.11.06-19.16.08:055][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.11.06-19.16.08:101][515]AssetCheck: New page: Asset Save: BP_SaveGame
+[2021.11.06-19.16.08:101][515]LogContentValidation: Display: Validating Blueprint /Game/menu/savegame/BP_SaveGame.BP_SaveGame
+[2021.11.06-19.16.30:353][703]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/menu/savegame/BP_SaveGame.BP_SaveGame
+[2021.11.06-19.16.42:210][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/menu/savegame/BP_SaveGame" FILE="../../../../../../Users/utor1/Documents/Unreal Projects/znova/Content/menu/savegame/BP_SaveGame.uasset" SILENT=true
+[2021.11.06-19.16.42:212][103]LogSavePackage: Moving '../../../../../../Users/utor1/Documents/Unreal Projects/znova/Saved/BP_SaveGame86ACE1374DDA17E75F2728B57D35ADBC.tmp' to '../../../../../../Users/utor1/Documents/Unreal Projects/znova/Content/menu/savegame/BP_SaveGame.uasset'
+[2021.11.06-19.16.42:224][103]AssetCheck: New page: Asset Save: BP_SaveGame
+[2021.11.06-19.16.42:225][103]LogContentValidation: Display: Validating Blueprint /Game/menu/savegame/BP_SaveGame.BP_SaveGame
+[2021.11.06-19.16.44:280][353]BlueprintLog: New page: Compile BP_SaveGame
+[2021.11.06-19.16.44:311][353]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.11.06-19.16.45:639][508]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.11.06-19.16.45:639][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.06-19.16.48:884][818]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.06-19.16.48:904][818]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.16.48:904][818]LogEditorClassViewer: Warning: Class /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C has parent /Script/Engine.DestructibleActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.17.24:298][383]BlueprintLog: New page: Compile BP_Gamemode
+[2021.11.06-19.17.24:301][383]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.17.24:301][383]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Get CharTransform
+[2021.11.06-19.17.24:302][383]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.17.24:302][383]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As BP Save Game  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.17.24:302][383]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.17.24:302][383]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.17.24:302][383]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.17.24:302][383]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Set CharTransform
+[2021.11.06-19.17.24:302][383]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.17.24:302][383]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.17.24:302][383]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.17.24:303][383]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2021.11.06-19.17.24:303][383]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.17.24:303][383]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.17.24:348][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.11.06-19.17.51:096][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.11.06-19.17.51:098][693]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/mapa' took 0.035
+[2021.11.06-19.17.51:098][693]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/menu/savegame/BP_Gamemode] ([2] browsable assets)...
+[2021.11.06-19.17.51:098][693]OBJ SavePackage: Finished generating thumbnails for package [/Game/menu/savegame/BP_Gamemode]
+[2021.11.06-19.17.51:111][693]LogSavePackage: Moving '../../../../../../Users/utor1/Documents/Unreal Projects/znova/Saved/BP_Gamemode_Auto178A831DD4163724D6B7EE695BE8803AA.tmp' to '../../../../../../Users/utor1/Documents/Unreal Projects/znova/Saved/Autosaves/Game/menu/savegame/BP_Gamemode_Auto1.uasset'
+[2021.11.06-19.17.51:112][693]LogFileHelpers: Auto-saving content packages took 0.014
+[2021.11.06-19.17.59:067][130]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.06-19.17.59:088][130]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.17.59:088][130]LogEditorClassViewer: Warning: Class /Game/M5VFXVOL2/BluePrints/building_DM_Blueprint.building_DM_Blueprint_C has parent /Script/Engine.DestructibleActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2021.11.06-19.18.47:929][507]BlueprintLog: New page: Compile BP_Gamemode
+[2021.11.06-19.18.47:931][507]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.18.47:931][507]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Get CharTransform
+[2021.11.06-19.18.47:931][507]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.18.47:931][507]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As BP Save Game  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.18.47:932][507]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.18.47:932][507]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.18.47:932][507]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.18.47:932][507]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Set CharTransform
+[2021.11.06-19.18.47:932][507]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.18.47:932][507]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.18.47:932][507]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.18.47:933][507]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] This blueprint (self) is not compatible with ' Target ', therefore that pin must have a connection.
+[2021.11.06-19.18.47:933][507]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.18.47:933][507]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.18.47:974][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.11.06-19.19.48:240][670]BlueprintLog: New page: Compile BP_Gamemode
+[2021.11.06-19.19.48:243][670]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.19.48:243][670]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Get CharTransform
+[2021.11.06-19.19.48:243][670]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.19.48:244][670]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As BP Save Game  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.19.48:244][670]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.19.48:244][670]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.19.48:244][670]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.19.48:244][670]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.19.48:244][670]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.19.48:244][670]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.19.48:245][670]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.19.48:288][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.11.06-19.20.12:011][  1]BlueprintLog: New page: Compile BP_Gamemode
+[2021.11.06-19.20.12:013][  1]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.20.12:013][  1]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Get CharTransform
+[2021.11.06-19.20.12:014][  1]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.20.12:014][  1]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As BP Save Game  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.20.12:014][  1]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.20.12:014][  1]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.20.12:014][  1]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.20.12:015][  1]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.20.12:057][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.11.06-19.20.33:820][ 48]BlueprintLog: New page: Compile BP_Gamemode
+[2021.11.06-19.20.33:823][ 48]LogBlueprint: Warning: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Could not find a variable named "CharTransform" in 'BP_Gamemode'.
+Make sure 'BP_Gamemode' has been compiled for  Get CharTransform
+[2021.11.06-19.20.33:823][ 48]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.20.33:823][ 48]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As BP Save Game  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.20.33:823][ 48]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] In use pin  As Third Person Character  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2021.11.06-19.20.33:823][ 48]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2021.11.06-19.20.33:824][ 48]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Bad cast node  to imply a specific type.
+[2021.11.06-19.20.33:824][ 48]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2021.11.06-19.20.33:824][ 48]LogBlueprint: Error: [AssetLog] C:\Users\utor1\Documents\Unreal Projects\znova\Content\menu\savegame\BP_Gamemode.uasset: [Compiler] The property associated with  Char Transform  could not be found in '/Game/menu/savegame/BP_Gamemode.BP_Gamemode_C'
+[2021.11.06-19.20.33:867][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2021.11.06-19.21.35:917][244]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.06-19.21.36:565][244]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.649 s
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: 
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: Stack: 
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc4dff3199 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc4dea12c1 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc4de9ff38 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc4dead09c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc4df2853c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc4df25a39 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc5e1db5d9 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc5e1db464 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc5e1dd880 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc5e1dd880 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc5e1db464 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc5e1dd880 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c7678 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c4adb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c4945 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c3ca2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c6c66 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:566][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c7787 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ffc540dbe74 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ffc541c7a1c UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ffc5dfb1bee UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ffc5dfb1f9b UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ffc5dfe2779 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ffc5dfb2547 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ffc5e008279 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ffc5e007a73 UE4Editor-Slate.dll!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ff76ac89a1f UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ff76aca0fbc UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ff76aca10aa UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ff76aca40cd UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ff76acb5984 UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ff76acb853a UE4Editor.exe!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ffcbebd7034 KERNEL32.DLL!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: [Callstack] 0x00007ffcc06c2651 ntdll.dll!UnknownFunction []
+[2021.11.06-19.21.36:567][244]LogOutputDevice: Error: 

@@ -1,0 +1,65 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "LDAssistant",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/51c5a9a0d5f84beba23aab69bed8d28c"
+		},
+		{
+			"Name": "AchievementSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d9f6e0a8c92f47db9e2fde6080bed630"
+		},
+		{
+			"Name": "ScreenFade",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/031bd60134e7451a966c0fec89eb680f"
+		},
+		{
+			"Name": "XsollaLogin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/62e5cde57b564c75bc9e6dffe2dedf88"
+		},
+		{
+			"Name": "OpenLandMesh",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4f2c911c42ef4a6d8c6f9c844898974e"
+		},
+		{
+			"Name": "RadialMenu",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/be623df092c442609c20a840630031fb"
+		},
+		{
+			"Name": "WeatherSystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6a646be0d2194fdc91c211d3e288f044"
+		},
+		{
+			"Name": "ActorPalette",
+			"Enabled": true
+		},
+		{
+			"Name": "AjaMedia",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/91088fb17fb04b6b9eda41aaf8fda21e",
+			"SupportedTargetPlatforms": [
+				"Win64"
+			]
+		},
+		{
+			"Name": "VoxelFree",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c61d1941c8664436be42d649404a10e0"
+		},
+		{
+			"Name": "GraphFormatter",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/297159d6d3f4425b9c095b18a811a401"
+		}
+	]
+}
